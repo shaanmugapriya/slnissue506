@@ -19,6 +19,9 @@ jobs:
         cache: true
         cache-dependency-path: '**/packages.lock.json'
 
+    - name: Create NuGet package folder
+      run: mkdir -p ~/.nuget/packages
+
     - name: Restore dependencies
       run: dotnet restore slnissue506.sln
 
