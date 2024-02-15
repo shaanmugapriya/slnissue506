@@ -20,7 +20,7 @@ jobs:
         cache-dependency-path: '**/packages.lock.json'
 
     - name: Restore dependencies
-      run: dotnet restore
+      run: dotnet restore slnissue506.sln
 
     - name: Setup NuGet package cache
       uses: actions/cache@v2
