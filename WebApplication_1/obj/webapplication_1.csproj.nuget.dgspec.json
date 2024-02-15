@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/shaanmugapriya/506/slnissue506/webapplication_1/webapplication_1.csproj": {}
+    "/Users/shaanmugapriya/506/slnissue506/WebApplication_1/WebApplication_1.csproj": {}
   },
   "projects": {
-    "/Users/shaanmugapriya/506/slnissue506/webapplication_1/webapplication_1.csproj": {
+    "/Users/shaanmugapriya/506/slnissue506/WebApplication_1/WebApplication_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/shaanmugapriya/506/slnissue506/webapplication_1/webapplication_1.csproj",
-        "projectName": "webapplication_1",
-        "projectPath": "/Users/shaanmugapriya/506/slnissue506/webapplication_1/webapplication_1.csproj",
+        "projectUniqueName": "/Users/shaanmugapriya/506/slnissue506/WebApplication_1/WebApplication_1.csproj",
+        "projectName": "WebApplication_1",
+        "projectPath": "/Users/shaanmugapriya/506/slnissue506/WebApplication_1/WebApplication_1.csproj",
         "packagesPath": "/Users/shaanmugapriya/.nuget/packages/",
-        "outputPath": "/Users/shaanmugapriya/506/slnissue506/webapplication_1/obj/",
+        "outputPath": "/Users/shaanmugapriya/506/slnissue506/WebApplication_1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/shaanmugapriya/.nuget/NuGet/NuGet.Config"
@@ -35,11 +35,6 @@
         },
         "restoreLockProperties": {
           "restorePackagesWithLockFile": "true"
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {

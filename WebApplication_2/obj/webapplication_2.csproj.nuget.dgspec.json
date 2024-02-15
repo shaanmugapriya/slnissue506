@@ -35,11 +35,6 @@
         },
         "restoreLockProperties": {
           "restorePackagesWithLockFile": "true"
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -103,11 +98,6 @@
         },
         "restoreLockProperties": {
           "restorePackagesWithLockFile": "true"
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
