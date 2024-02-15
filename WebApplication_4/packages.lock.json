@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "dependencies": {
+    "net8.0": {
+      "webapplication_1": {
+        "type": "Project"
+      },
+      "webapplication_2": {
+        "type": "Project",
+        "dependencies": {
+          "webapplication_1": "[1.0.0, )"
+        }
+      },
+      "webapplication_3": {
+        "type": "Project",
+        "dependencies": {
+          "webapplication_2": "[1.0.0, )"
+        }
+      }
+    }
+  }
+}

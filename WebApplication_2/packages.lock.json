@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "dependencies": {
+    "net8.0": {
+      "webapplication_1": {
+        "type": "Project"
+      }
+    }
+  }
+}

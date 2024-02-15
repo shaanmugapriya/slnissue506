@@ -1,0 +1,140 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/shaanmugapriya/506/slnissue506/webapplication_2/webapplication_2.csproj": {}
+  },
+  "projects": {
+    "/Users/shaanmugapriya/506/slnissue506/webapplication_1/webapplication_1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/shaanmugapriya/506/slnissue506/webapplication_1/webapplication_1.csproj",
+        "projectName": "webapplication_1",
+        "projectPath": "/Users/shaanmugapriya/506/slnissue506/webapplication_1/webapplication_1.csproj",
+        "packagesPath": "/Users/shaanmugapriya/.nuget/packages/",
+        "outputPath": "/Users/shaanmugapriya/506/slnissue506/webapplication_1/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/shaanmugapriya/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreLockProperties": {
+          "restorePackagesWithLockFile": "true"
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/shaanmugapriya/506/slnissue506/webapplication_2/webapplication_2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/shaanmugapriya/506/slnissue506/webapplication_2/webapplication_2.csproj",
+        "projectName": "webapplication_2",
+        "projectPath": "/Users/shaanmugapriya/506/slnissue506/webapplication_2/webapplication_2.csproj",
+        "packagesPath": "/Users/shaanmugapriya/.nuget/packages/",
+        "outputPath": "/Users/shaanmugapriya/506/slnissue506/webapplication_2/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/shaanmugapriya/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/shaanmugapriya/506/slnissue506/webapplication_1/webapplication_1.csproj": {
+                "projectPath": "/Users/shaanmugapriya/506/slnissue506/webapplication_1/webapplication_1.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreLockProperties": {
+          "restorePackagesWithLockFile": "true"
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
